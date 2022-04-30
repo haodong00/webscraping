@@ -1,9 +1,6 @@
 # Blog Post 2 Web Scraping IMDB for Fav Film 
 
----
-layout: post
-title: Blog Post 2 Web Scraping IMDB for Fav Film 
----
+
 In this Blog Post, I will use webscraping to figure out things about my favorite TV series "Euphoria". Euphoria is a 2 seasons 16 episodes TV follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma and social media. 
 
 <h1>1. Setup </h1>
